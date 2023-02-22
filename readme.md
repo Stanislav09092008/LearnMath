@@ -5,14 +5,14 @@
 
 # How does it work?
 
-Гравець має змогу виконувати завдання 
+Гравець має змогу виконувати завдання
 
 
 # Entities
 
 - Chapter
-  - Topic
-    - Level
+    - Topic
+        - Level
 
 - Knowledge level
     - beginner
